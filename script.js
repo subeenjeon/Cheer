@@ -14,6 +14,10 @@ $(document).ready(function(){
 	});
 });
 
+$("ul.song li").click(function(){
+	$(this).toggleClass("selected");
+	});
+	
 $("ul.seat li").click(function(){
 	$(this).toggleClass("selected");
 	});
