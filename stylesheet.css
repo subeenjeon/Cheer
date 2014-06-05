@@ -104,7 +104,8 @@ ul {
 ul.seat {
 	top: 300px;
 	width: 265px;
-	margin : 150px;
+	margin-left: 50px;
+	margin-top: 0px;
 	}
 ul.seat li {
 	background-size: cover; 
