@@ -62,6 +62,46 @@ ul {
 	margin: 0;
 	top: 80px;
 }
+ul {
+	position: absolute;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	top: 80px;
+}
+ul.song li {
+	background-size: cover; 
+	background-position: center; 
+	width: 255px;
+	height: 69px;
+	margin-left: 50px;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: -23px; 
+}
+ul.song li:nth-child(1) {
+	background-image: url("images/button_song_01_normal.png");
+}
+ul.song li:nth-child(2) {
+	background-image: url("images/button_song_02_normal.png");
+}
+ul.song li:nth-child(3) {
+	background-image: url("images/button_song_03_normal.png");
+}
+ul.song li:nth-child(1):active {
+	background-image: url("images/button_song_01_selected.png");
+}
+ul.song li:nth-child(2):active {
+	background-image: url("images/button_song_02_selected.png");
+}
+ul.song li:nth-child(3):active {
+	background-image: url("images/button_song_03_selected.png");
+}
+#title-seat {
+	top: 240px;
+	width: 112px;
+	background-image: url("images/title_seat.png");
+}
 ul.seat li {
 	background-size: cover; 
 	background-position: center; 
@@ -144,46 +184,6 @@ ul.seat li:nth-child(11):active {
 }
 ul.seat li:nth-child(12):active {
 	background-image: url("images/button_seat_L_selected.png");
-}
-#title-seat {
-	top: 240px;
-	width: 112px;
-	background-image: url("images/title_seat.png");
-}
-ul {
-	position: absolute;
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
-	top: 80px;
-}
-ul.song li {
-	background-size: cover; 
-	background-position: center; 
-	width: 255px;
-	height: 69px;
-	margin-left: 50px;
-	margin-top: 0px;
-	margin-right: 20px;
-	margin-bottom: -23px; 
-}
-ul.song li:nth-child(1) {
-	background-image: url("images/button_song_01_normal.png");
-}
-ul.song li:nth-child(2) {
-	background-image: url("images/button_song_02_normal.png");
-}
-ul.song li:nth-child(3) {
-	background-image: url("images/button_song_03_normal.png");
-}
-ul.song li:nth-child(1):active {
-	background-image: url("images/button_song_01_selected.png");
-}
-ul.song li:nth-child(2):active {
-	background-image: url("images/button_song_02_selected.png");
-}
-ul.song li:nth-child(3):active {
-	background-image: url("images/button_song_03_selected.png");
 }
 #playButton {
 	bottom: 40px;
