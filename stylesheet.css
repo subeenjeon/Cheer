@@ -81,13 +81,13 @@ ul.song li:nth-child(2) {
 ul.song li:nth-child(3) {
 	background-image: url("images/button_song_03_normal.png");
 }
-ul.song li:nth-child(1) .selected {
+ul.song li:nth-child(1).selected {
 	background-image: url("images/button_song_01_selected.png");
 }
-ul.song li:nth-child(2) .selected {
+ul.song li:nth-child(2).selected {
 	background-image: url("images/button_song_02_selected.png");
 }
-ul.song li:nth-child(3) .selected {
+ul.song li:nth-child(3).selected {
 	background-image: url("images/button_song_03_selected.png");
 }
 #title-seat {
@@ -154,40 +154,40 @@ ul.seat li:nth-child(11) {
 ul.seat li:nth-child(12) {
 	background-image: url("images/button_seat_L_normal.png");
 }
-ul.seat li:nth-child(1) .selected {
+ul.seat li:nth-child(1).selected {
 	background-image: url("images/button_seat_A_selected.png");
 }
-ul.seat li:nth-child(2) .selected {
+ul.seat li:nth-child(2).selected {
 	background-image: url("images/button_seat_B_selected.png");
 }
-ul.seat li:nth-child(3) .selected {
+ul.seat li:nth-child(3).selected {
 	background-image: url("images/button_seat_C_selected.png");
 }
-ul.seat li:nth-child(4) .selected {
+ul.seat li:nth-child(4).selected {
 	background-image: url("images/button_seat_D_selected.png");
 }
-ul.seat li:nth-child(5) .selected {
+ul.seat li:nth-child(5).selected {
 	background-image: url("images/button_seat_E_selected.png");
 }
-ul.seat li:nth-child(6) .selected {
+ul.seat li:nth-child(6).selected {
 	background-image: url("images/button_seat_F_selected.png");
 }
-ul.seat li:nth-child(7) .selected {
+ul.seat li:nth-child(7).selected {
 	background-image: url("images/button_seat_G_selected.png");
 }
-ul.seat li:nth-child(8) .selected {
+ul.seat li:nth-child(8).selected {
 	background-image: url("images/button_seat_H_selected.png");
 }
-ul.seat li:nth-child(9) .selected {
+ul.seat li:nth-child(9).selected {
 	background-image: url("images/button_seat_I_selected.png");
 }
-ul.seat li:nth-child(10) .selected {
+ul.seat li:nth-child(10).selected {
 	background-image: url("images/button_seat_J_selected.png");
 }
-ul.seat li:nth-child(11) .selected {
+ul.seat li:nth-child(11).selected {
 	background-image: url("images/button_seat_K_selected.png");
 }
-ul.seat li:nth-child(12) .selected {
+ul.seat li:nth-child(12).selected {
 	background-image: url("images/button_seat_L_selected.png");
 }
 #playButton {
