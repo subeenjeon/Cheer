@@ -63,6 +63,8 @@ ul {
 	top: 80px;
 }
 ul.song li {
+	background-size: cover; 
+	background-position: center; 
 	width: 255px;
 	height: 69px;
 	margin: 10px;
