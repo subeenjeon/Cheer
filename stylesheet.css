@@ -112,9 +112,9 @@ ul.seat li {
 	display : inline-block;
 	width: 84px;
 	height: 83px;
-	margin-left: 5px;
-	margin-top: 5px;
-	margin-right: 5px;
+	margin-left: 1px;
+	margin-top: 1px;
+	margin-right: 1px;
 	margin-bottom: 5px;
 }
 ul.seat li:nth-child(1) {
