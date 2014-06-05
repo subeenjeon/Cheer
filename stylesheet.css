@@ -112,10 +112,10 @@ ul.seat li {
 	display : inline-block;
 	width: 84px;
 	height: 83px;
-	margin-left: 1px;
-	margin-top: 1px;
-	margin-right: 1px;
-	margin-bottom: 5px;
+	margin-left: -1px;
+	margin-top: -1px;
+	margin-right: -1px;
+	margin-bottom: -1px;
 }
 ul.seat li:nth-child(1) {
 	background-image: url("images/button_seat_A_normal.png");
