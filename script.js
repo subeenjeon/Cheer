@@ -15,9 +15,9 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-	$(this).click(function(){
-	$("ul.song li").removeClass("selected");
-	$("ul.song li").addClass("selected");
+	$("ul.song li").click(function(){
+	$(this).removeClass("normal");
+	$(this).addClass("selected");
 	});
 });
 
