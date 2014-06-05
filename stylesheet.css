@@ -67,7 +67,10 @@ ul.song li {
 	background-position: center; 
 	width: 255px;
 	height: 69px;
-	margin: 20 5 20 5;
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-bottom: 5px; 
 }
 ul.song li:nth-child(1) {
 	background-image: url("images/button_song_01_normal.png");
