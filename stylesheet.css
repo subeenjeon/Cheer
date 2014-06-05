@@ -103,6 +103,7 @@ ul {
 }
 ul.seat {
 	top: 300px;
+	width: 336px;
 	}
 ul.seat li {
 	background-size: cover; 
