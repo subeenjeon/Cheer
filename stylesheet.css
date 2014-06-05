@@ -76,35 +76,74 @@ ul.seat li {
 ul.seat li:nth-child(1) {
 	background-image: url("images/button_seat_A_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(2) {
+	background-image: url("images/button_seat_B_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(3) {
+	background-image: url("images/button_seat_C_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(4) {
+	background-image: url("images/button_seat_D_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(5) {
+	background-image: url("images/button_seat_E_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(6) {
+	background-image: url("images/button_seat_F_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(7) {
+	background-image: url("images/button_seat_G_normal.png");
 }
-ul.seat li:nth-child(1) {
-	background-image: url("images/button_seat_A_normal.png");
+ul.seat li:nth-child(8) {
+	background-image: url("images/button_seat_H_normal.png");
+}
+ul.seat li:nth-child(9) {
+	background-image: url("images/button_seat_I_normal.png");
+}
+ul.seat li:nth-child(10) {
+	background-image: url("images/button_seat_J_normal.png");
+}
+ul.seat li:nth-child(11) {
+	background-image: url("images/button_seat_K_normal.png");
+}
+ul.seat li:nth-child(12) {
+	background-image: url("images/button_seat_L_normal.png");
 }
 ul.seat li:nth-child(1):active {
-	background-image: url("images/button_song_01_selected.png");
+	background-image: url("images/button_seat_A_selected.png");
 }
 ul.seat li:nth-child(2):active {
-	background-image: url("images/button_song_01_selected.png");
+	background-image: url("images/button_seat_B_selected.png");
 }
 ul.seat li:nth-child(3):active {
-	background-image: url("images/button_song_01_selected.png");
+	background-image: url("images/button_seat_C_selected.png");
+}
+ul.seat li:nth-child(4):active {
+	background-image: url("images/button_seat_D_selected.png");
+}
+ul.seat li:nth-child(5):active {
+	background-image: url("images/button_seat_E_selected.png");
+}
+ul.seat li:nth-child(6):active {
+	background-image: url("images/button_seat_F_selected.png");
+}
+ul.seat li:nth-child(7):active {
+	background-image: url("images/button_seat_G_selected.png");
+}
+ul.seat li:nth-child(8):active {
+	background-image: url("images/button_seat_H_selected.png");
+}
+ul.seat li:nth-child(9):active {
+	background-image: url("images/button_seat_I_selected.png");
+}
+ul.seat li:nth-child(10):active {
+	background-image: url("images/button_seat_J_selected.png");
+}
+ul.seat li:nth-child(11):active {
+	background-image: url("images/button_seat_K_selected.png");
+}
+ul.seat li:nth-child(12):active {
+	background-image: url("images/button_seat_L_selected.png");
 }
 #title-seat {
 	top: 240px;
