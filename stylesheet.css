@@ -62,6 +62,62 @@ ul {
 	margin: 0;
 	top: 80px;
 }
+ul.seat li {
+	background-size: cover; 
+	background-position: center; 
+	display: inline block;
+	width: 255px;
+	height: 69px;
+	margin-left: 50px;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: -23px; 
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1) {
+	background-image: url("images/button_seat_A_normal.png");
+}
+ul.seat li:nth-child(1):active {
+	background-image: url("images/button_song_01_selected.png");
+}
+ul.seat li:nth-child(2):active {
+	background-image: url("images/button_song_01_selected.png");
+}
+ul.seat li:nth-child(3):active {
+	background-image: url("images/button_song_01_selected.png");
+}
+#title-seat {
+	top: 240px;
+	width: 112px;
+	background-image: url("images/title_seat.png");
+}
+ul {
+	position: absolute;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	top: 80px;
+}
 ul.song li {
 	background-size: cover; 
 	background-position: center; 
@@ -89,11 +145,6 @@ ul.song li:nth-child(2):active {
 }
 ul.song li:nth-child(3):active {
 	background-image: url("images/button_song_03_selected.png");
-}
-#title-seat {
-	top: 240px;
-	width: 112px;
-	background-image: url("images/title_seat.png");
 }
 #playButton {
 	bottom: 40px;
