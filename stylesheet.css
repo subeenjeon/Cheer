@@ -112,10 +112,10 @@ ul.seat li {
 	background-position: center; 
 	width: 84px;
 	height: 83px;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
 }
 ul.seat li:nth-child(1) {
 	background-image: url("images/button_seat_A_normal.png");
