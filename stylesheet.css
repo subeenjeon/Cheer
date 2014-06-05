@@ -68,22 +68,22 @@ ul.song li {
 	margin: 10px;
 }
 ul.song li:nth-child(1) {
-	background-image: url("imgaes/button_song_01_normal.png");
+	background-image: url("images/button_song_01_normal.png");
 }
 ul.song li:nth-child(2) {
-	background-image: url("imgaes/button_song_02_normal.png");
+	background-image: url("images/button_song_02_normal.png");
 }
 ul.song li:nth-child(3) {
-	background-image: url("imgaes/button_song_03_normal.png");
+	background-image: url("images/button_song_03_normal.png");
 }
 ul.song li:nth-child(1):active {
-	background-image: url("imgaes/button_song_01_selected.png");
+	background-image: url("images/button_song_01_selected.png");
 }
 ul.song li:nth-child(2):active {
-	background-image: url("imgaes/button_song_02_selected.png");
+	background-image: url("images/button_song_02_selected.png");
 }
 ul.song li:nth-child(3):active {
-	background-image: url("imgaes/button_song_03_selected.png");
+	background-image: url("images/button_song_03_selected.png");
 }
 #title-seat {
 	top: 240px;
