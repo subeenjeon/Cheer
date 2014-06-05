@@ -154,40 +154,40 @@ ul.seat li:nth-child(11) {
 ul.seat li:nth-child(12) {
 	background-image: url("images/button_seat_L_normal.png");
 }
-ul.seat li:nth-child(1):active {
+ul.seat li:nth-child(1):.selected {
 	background-image: url("images/button_seat_A_selected.png");
 }
-ul.seat li:nth-child(2):active {
+ul.seat li:nth-child(2):.selected {
 	background-image: url("images/button_seat_B_selected.png");
 }
-ul.seat li:nth-child(3):active {
+ul.seat li:nth-child(3):.selected {
 	background-image: url("images/button_seat_C_selected.png");
 }
-ul.seat li:nth-child(4):active {
+ul.seat li:nth-child(4):.selected {
 	background-image: url("images/button_seat_D_selected.png");
 }
-ul.seat li:nth-child(5):active {
+ul.seat li:nth-child(5):.selected {
 	background-image: url("images/button_seat_E_selected.png");
 }
-ul.seat li:nth-child(6):active {
+ul.seat li:nth-child(6):.selected {
 	background-image: url("images/button_seat_F_selected.png");
 }
-ul.seat li:nth-child(7):active {
+ul.seat li:nth-child(7):.selected {
 	background-image: url("images/button_seat_G_selected.png");
 }
-ul.seat li:nth-child(8):active {
+ul.seat li:nth-child(8):.selected {
 	background-image: url("images/button_seat_H_selected.png");
 }
-ul.seat li:nth-child(9):active {
+ul.seat li:nth-child(9):.selected {
 	background-image: url("images/button_seat_I_selected.png");
 }
-ul.seat li:nth-child(10):active {
+ul.seat li:nth-child(10):.selected {
 	background-image: url("images/button_seat_J_selected.png");
 }
-ul.seat li:nth-child(11):active {
+ul.seat li:nth-child(11):.selected {
 	background-image: url("images/button_seat_K_selected.png");
 }
-ul.seat li:nth-child(12):active {
+ul.seat li:nth-child(12):.selected {
 	background-image: url("images/button_seat_L_selected.png");
 }
 #playButton {
