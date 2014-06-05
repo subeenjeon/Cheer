@@ -1,3 +1,3 @@
 Cheer
 =====
-[Live Demo](http://lectureixdl.github.io/Cheer)
+[Live Demo](http://subeenjeon.github.io/Cheer)
