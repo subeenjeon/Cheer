@@ -14,7 +14,7 @@ $(document).ready(function(){
 	});
 });
 
-$("ul.song li").click(function(){
+$("ul.seat li").click(function(){
 	$(this).toggleClass("selected");
 	});
 
