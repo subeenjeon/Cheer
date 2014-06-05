@@ -81,13 +81,13 @@ ul.song li:nth-child(2) {
 ul.song li:nth-child(3) {
 	background-image: url("images/button_song_03_normal.png");
 }
-ul.song li:nth-child(1):active {
+ul.song li:nth-child(1):.selected {
 	background-image: url("images/button_song_01_selected.png");
 }
-ul.song li:nth-child(2):active {
+ul.song li:nth-child(2):.selected {
 	background-image: url("images/button_song_02_selected.png");
 }
-ul.song li:nth-child(3):active {
+ul.song li:nth-child(3):.selected {
 	background-image: url("images/button_song_03_selected.png");
 }
 #title-seat {
