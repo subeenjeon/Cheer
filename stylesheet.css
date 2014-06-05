@@ -70,7 +70,7 @@ ul.song li {
 	margin-left: 50px;
 	margin-top: 0px;
 	margin-right: 20px;
-	margin-bottom: -27px; 
+	margin-bottom: -23px; 
 }
 ul.song li:nth-child(1) {
 	background-image: url("images/button_song_01_normal.png");
