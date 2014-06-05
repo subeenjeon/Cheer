@@ -104,12 +104,11 @@ ul {
 }
 ul.seat {
 	top: 300px;
-	display : inline block;
+	display : inline-block;
 	}
 ul.seat li {
 	background-size: cover; 
 	background-position: center; 
-	display: inline block;
 	width: 84px;
 	height: 83px;
 /*	margin-left: 50px;
