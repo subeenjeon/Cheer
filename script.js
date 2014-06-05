@@ -14,13 +14,17 @@ $(document).ready(function(){
 	});
 });
 
-$(document).click(function(){
-	$("Ul.song li").toggleClass("selected");
-	});
-	
-$("ul.seat li").click(function(){
+$(document).ready(function(){
+	$("ul.song li").click(function(){
 	$(this).toggleClass("selected");
 	});
+});
+
+$(document).ready(function(){
+	$("ul.seat li").click(function(){
+	$(this).toggleClass("selected");
+	});
+});
 
 var showMenu = function() {
 	$("#logo").fadeOut();
