@@ -16,7 +16,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$("ul.song li").click(function(){
-	$(this).removeClass("selected");
+	$("ul.song li").removeClass("selected");
 	$(this).addClass("selected");
 	});
 });
