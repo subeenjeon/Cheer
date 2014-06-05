@@ -14,6 +14,10 @@ $(document).ready(function(){
 	});
 });
 
+$("ul.song li").click(function(){
+	$(this).toggleClass("selected");
+	});
+
 var showMenu = function() {
 	$("#logo").fadeOut();
 	$("#menu").fadeIn();
