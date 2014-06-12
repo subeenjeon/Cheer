@@ -48,7 +48,7 @@ button {
 }
 #menu .title {
 	height: 51px;
-	left: 30px;
+	left: 25px;
 }
 #title-song {
 	top: 40px;
@@ -61,6 +61,7 @@ ul {
 	padding: 0;
 	margin: 0;
 	top: 80px;
+	left: -16px;
 }
 ul.song li {
 	background-size: cover; 
@@ -111,12 +112,12 @@ ul.seat li {
 	background-size: cover; 
 	background-position: center; 
 	display : inline-block;
-	width: 84px;
-	height: 83px;
-	margin-left: -5px;
-	margin-top: -27px;
-	margin-right: -27px;
-	margin-bottom: -1px;
+	width: 89px;
+	height: 88px;
+	margin-left: 9px;
+	margin-top: -30px;
+	margin-right: -19px;
+	margin-bottom: 3px;
 }
 ul.seat li:nth-child(1) {
 	background-image: url("images/button_seat_A_normal.png");
@@ -179,6 +180,7 @@ ul.seat li:nth-child(9).selected {
 	left: calc(50% - 111px);
 	width: 223px;
 	height: 42px;
+	top:500px;
 	background-image: url("images/button_start_normal.png");
 }
 #playButton:active {
