@@ -145,15 +145,7 @@ ul.seat li:nth-child(8) {
 ul.seat li:nth-child(9) {
 	background-image: url("images/button_seat_I_normal.png");
 }
-ul.seat li:nth-child(10) {
-	background-image: url("images/button_seat_J_normal.png");
-}
-ul.seat li:nth-child(11) {
-	background-image: url("images/button_seat_K_normal.png");
-}
-ul.seat li:nth-child(12) {
-	background-image: url("images/button_seat_L_normal.png");
-}
+
 ul.seat li:nth-child(1).selected {
 	background-image: url("images/button_seat_A_selected.png");
 }
@@ -181,15 +173,7 @@ ul.seat li:nth-child(8).selected {
 ul.seat li:nth-child(9).selected {
 	background-image: url("images/button_seat_I_selected.png");
 }
-ul.seat li:nth-child(10).selected {
-	background-image: url("images/button_seat_J_selected.png");
-}
-ul.seat li:nth-child(11).selected {
-	background-image: url("images/button_seat_K_selected.png");
-}
-ul.seat li:nth-child(12).selected {
-	background-image: url("images/button_seat_L_selected.png");
-}
+
 #playButton {
 	bottom: 40px;
 	left: calc(50% - 111px);
