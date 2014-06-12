@@ -23,7 +23,8 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$("ul.seat li").click(function(){
-	$(this).toggleClass("selected");
+	$("ul.seat li").removeClass("selected");
+	$(this).addClass("selected");
 	});
 });
 
