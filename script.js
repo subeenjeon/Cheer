@@ -43,12 +43,10 @@ var showPlayer = function() {
 	$("#player").fadeIn();
 }
 
-/*
 var setVideo = function() {
-	var song = $("ul.song .selected").attr("id”);
-	var seat = $("ul.seat .selected").attr("id”);
-	var vidName = "video/" + song + "-" + seat + ".mp4”;
+	var song = $("ul.song .selected").attr("id");
+	var seat = $("ul.seat .selected").attr("id");
+	var vidName = "video/" + song + "-" + seat + ".avi";
 	$("source").attr("src", vidName);
 	$("video").load();
 }
-*/
